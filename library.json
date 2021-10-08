@@ -1,0 +1,27 @@
+{  
+  "name": "FSERestAPI",
+  "version": "1.0.1",
+  "description": "Rest API lib",
+  "keywords": "rest api",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/fullstackelectron/FSEWifiManager.git"
+  },
+  "authors":
+  [
+    {
+      "name": "Fullstack Electron",
+      "email": "info@fullstackelectron.com",
+      "url": "https://fullstackelectron.com"
+    }
+  ],
+  "dependencies": {
+	"tzapu/WifiManager": "^0.15.0",
+	"fullstackelectron/FSESPIFFS": "^1.0.0"
+  },
+  "license": "MIT",
+  "homepage": "https://fullstackelectron.com",
+  "frameworks": "*",
+  "platforms": "*"
+}
